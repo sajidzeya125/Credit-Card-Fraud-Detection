@@ -1,4 +1,4 @@
-💳 AI-Powered Fraud Detection System
+💳 AI-Powered Fraud Detection System/n
 🔍 Overview
 An advanced machine learning solution that identifies suspicious credit card transactions with 99%+ accuracy. Combines anomaly detection (Isolation Forest) and supervised learning (XGBoost) to protect against financial fraud.
 
